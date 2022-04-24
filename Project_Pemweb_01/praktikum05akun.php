@@ -47,7 +47,7 @@ include_once 'sidebar.php';
               </div>
                <!-- /.card-body -->
               <div class="card-footer ">
-                <div class="col-12 text-center">Design by M Daffa Ariftama</div>
+                <div class="col-12 text-center">Design By AHMAD ALGIFARI</div>
                 </div>
               <!-- /.card-footer-->
             </div>
